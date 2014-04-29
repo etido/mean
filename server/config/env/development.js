@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    db: 'mongodb://localhost/mean-dev',
+    db: 'mongodb://etido:Stm1cr0#@oceanic.mongohq.com:10042/datacollector',
     app: {
         name: 'MEAN - FullStack JS - Development'
     },
